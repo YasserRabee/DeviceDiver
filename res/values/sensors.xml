@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="temperature">Temperature</string>
+    <string name="linear_acc">Linear Acceleration</string>
+    <string name="gyroscope">Gyroscope</string>
+    <string name="orientation">Orientation</string>
+    <string name="gravity">Gravity</string>
+    <string name="magnetic">magnetic</string>
+    <string name="light">Light</string>
+    <string name="proximity">Proximity</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="rotation_vector">Rotation</string>
+    <string name="sig_motion">Significant Motion</string>
+</resources>

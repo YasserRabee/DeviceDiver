@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Device Diver</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="no_result">No Result</string>
+    <string name="wifi_select">Wifi</string>
+    <string name="sensor_select">Sensors</string>
+    <string name="title_activity_wifi_scanner">Wifi Monitor</string>
+    <string name="scan">Scan</string>
+    <string name="title_activity_wifi_details">Wifi Details</string>
+    <string name="wifi_ssid">SSID</string>
+    <string name="wifi_bssid">BSSID</string>
+    <string name="wifi_level">Level</string>
+    <string name="wifi_cap">Capabilites</string>
+    <string name="title_activity_sensors">Sensors</string>
+    <string name="title_activity_sensor_monitor">Sensor Monitor</string>
+    <string name="clear">Clear</string>
+    <string name="monitor">Monitor</string>
+    <string name="save_sensor_file">Save</string>
+    <string name="title_activity_main_activity1">MainActivity1</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_cellular">Cellular Monitor</string>
+    <string name="cell">Cellular</string>
+
+</resources>
